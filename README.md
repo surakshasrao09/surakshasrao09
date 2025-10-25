@@ -5,7 +5,7 @@ Author: Suraksha S Rao
 
 <h1 align="center">
   <img src="https://i.ibb.co/3MtN1wN/wave.gif" width="40px"> 
-  こんにちは (Konnichiwa)!! I'm <b>Suraksha S Rao</b> 🌸
+     I'm <b>Suraksha S Rao</b> 🌸
 </h1>
 
 <p align="center">

@@ -16,7 +16,7 @@ Author: Suraksha S Rao
 
 ### 💫 About Me
 
-🌟 **Full Stack Developer | Tech Explorer | Anime Enthusiast**
+🌟 **Full Stack Developer | Tech Explorer | Enthusiast in learning new things**
 
 > I code like a ninja ⚔️ and design like an artist 🎨  
 > Turning imagination into interactive experiences ✨  
